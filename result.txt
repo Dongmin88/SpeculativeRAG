@@ -1,0 +1,31 @@
+Processing question: Tell me about Paris, focusing on its significance as a global city.
+Number of input documents: 5
+Documents clustered into 2 groups
+
+Generating draft 1/3
+Draft 1 generated
+
+Generating draft 2/3
+Draft 2 generated
+
+Generating draft 3/3
+Draft 3 generated
+
+Verifying draft 1/3
+Draft 1 score: 1.0000
+
+Verifying draft 2/3
+Draft 2 score: 1.0000
+
+Verifying draft 3/3
+Draft 3 score: 1.0000
+
+Selected draft 1 with score 1.0000
+
+Final Results:
+Question: Tell me about Paris, focusing on its significance as a global city.
+Answer: Paris is globally significant due to a multitude of factors. As the capital and largest city of France, it hosts an estimated population of 2,102,650 residents as of 2021 [1]. This high population density, combined with the estimated 12,262,544 residents of the wider Paris Region or Île-de-France in 2019 [1], reflects Paris's status as a key urban area.
+
+Furthermore, Paris's cultural significance is underscored by its status as a hub for art and heritage. It is home to several renowned museums, including the Louvre Museum, which features globally recognized works such as the Mona Lisa [2]. This cultural richness attracts a large number of tourists from all over the world, with the city receiving approximately 30 million visitors each year [2].
+
+The combination of these factors, including its high population, cultural wealth, and status as a tourist destination, make Paris a city of global significance.
